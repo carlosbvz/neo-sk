@@ -1,0 +1,19 @@
+{
+  "name": "neo-sk",
+  "version": "1.0.0",
+  "description": "This is an scaffold pseudo-framework to help create components based on prototypes. The idea is to utilize new FE technologies and save some dev time in regular tasks. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosbvz/neo-sk.git"
+  },
+  "author": "Carlos Benavides V.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosbvz/neo-sk/issues"
+  },
+  "homepage": "https://github.com/carlosbvz/neo-sk#readme"
+}

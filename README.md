@@ -1,1 +1,1 @@
-# newo-sk
+# neo-sk
